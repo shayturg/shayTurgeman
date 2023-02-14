@@ -1,2 +1,3 @@
 # shayTurgeman
-a javascript vanila html &amp; bootstrap project
+
+a javascript vanila html & bootstrap project
